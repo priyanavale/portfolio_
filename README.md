@@ -1,2 +1,2 @@
-# portfolio_
-a simple portfolio using html css js
+# portfolio
+a simple portfolio 
